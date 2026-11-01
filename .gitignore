@@ -1,0 +1,17 @@
+# Only the kit's own files: nothing from the game (a built DaytonaUSADeluxe/ folder included), the patch or
+# other downloads
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/build.py
+!/patch_exe.py
+!/caves.s
+!/caves_d3d.inc
+!/caves_sw.inc
+!/build_caves.py
+!/disc.py
+!/config/
+!/docs/
+!/steamdeck/
+__pycache__/
